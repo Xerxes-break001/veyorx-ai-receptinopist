@@ -1,0 +1,1 @@
+# veyorx-ai-receptinopist
